@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "27868732314",
+    "firebase_url": "https://vendordb.firebaseio.com",
+    "project_id": "vendordb",
+    "storage_bucket": "vendordb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27868732314:android:551731c78d1a9889",
+        "android_client_info": {
+          "package_name": "com.vendorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27868732314-ms9nee0cfs16qfkg9jn4733aqt15eulj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vendorapp",
+            "certificate_hash": "655289a7259ce65466d48e0edd3c33987bef160a"
+          }
+        },
+        {
+          "client_id": "27868732314-tk1u81fe1bsg1ik4gh3pi8q5bdqp5vt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM8Y0V1lEtN9WgWLw8JgLerystr-__VSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27868732314-tk1u81fe1bsg1ik4gh3pi8q5bdqp5vt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
